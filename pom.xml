@@ -127,7 +127,7 @@
 	</profiles>
 
 
-	<distributionManagement>
+	<distributionManagement
 		<repository>
 			<id>nexus</id>
 			<url>http://172.17.0.3:8081/repository/maven-releases</url>
